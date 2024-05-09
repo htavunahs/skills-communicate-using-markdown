@@ -1,2 +1,4 @@
-# <h1>Learning Markdown</h1>
-# <h2>H2 is not making it easy</h2>
+# Learning Markdown
+## H2 is not making it easy
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
+###### Yaktocat
